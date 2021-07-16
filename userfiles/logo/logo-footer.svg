@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165" height="23" viewBox="0 0 165 23">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        filter: url(#filter);
+      }
+
+      .cls-2 {
+        filter: url(#filter-2);
+      }
+    </style>
+    <filter id="filter" x="81.375" y="0.781" width="83.5" height="22.406" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#8edce6"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="0.781" y="0.781" width="77.5" height="22.406" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#343636"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="_name" data-name="          name" class="cls-1" d="M93.843,12.944L85.2,0.784h-3.84v22.4h5.12V11.024l8.64,12.16h3.84V0.784h-5.12v12.16Zm28.8,10.24-7.617-22.4H108.5l-7.616,22.4h5.6l1.12-3.52h8.32l1.12,3.52h5.6ZM111.763,6.64l2.624,8.224h-5.248Zm30.081-5.856-6.08,9.952-6.08-9.952h-5.121v22.4h5.121V10.16l5.792,9.5h0.576l5.792-9.5V23.184h5.12V0.784h-5.12Zm14.08,13.5h8V9.424h-8V5.712h8.8V0.784H150.8v22.4h14.08V18.256h-8.96V14.288Z"/>
+  <path id="land" class="cls-2" d="M2.48,0.784h-1.7v22.4H13.041v-1.6H2.48V0.784Zm31.585,22.4-8.672-22.4H23.6l-8.7,22.4h1.792l2.176-5.7H30.1l2.176,5.7h1.792ZM24.5,2.864l4.992,13.024H19.5ZM52.049,20.048L38.8,0.784H37.329v22.4h1.7V3.92L52.241,23.184h1.5V0.784h-1.7V20.048ZM59.313,0.784v22.4H67.73A9.846,9.846,0,0,0,75.3,19.936a11.305,11.305,0,0,0,2.992-7.952A11.306,11.306,0,0,0,75.3,4.032,9.848,9.848,0,0,0,67.73.784H59.313Zm1.7,20.8V2.384h6.72a8.231,8.231,0,0,1,6.4,2.768,9.828,9.828,0,0,1,2.5,6.832,9.827,9.827,0,0,1-2.5,6.832,8.229,8.229,0,0,1-6.4,2.768h-6.72Z"/>
+</svg>

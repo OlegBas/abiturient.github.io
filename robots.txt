@@ -1,0 +1,22 @@
+User-agent: Yandex
+Disallow: *?action=*
+Disallow: /assets/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /*?
+Host: sitedomain.ru
+
+User-agent: Googlebot
+Disallow: *?action=*
+Disallow: /assets/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /*?
+
+User-agent: *
+Disallow: *?action=*
+Disallow: /assets/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /*?
+Sitemap: http://sitedomain.ru/sitemap.xml

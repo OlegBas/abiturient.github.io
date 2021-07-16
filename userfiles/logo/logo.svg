@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165" height="23" viewBox="0 0 165 23">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="81.375" y="0.781" width="83.5" height="22.406" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#8edce6"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="land" class="cls-1" d="M2.481,21.584V0.778h-1.7V23.184H13.044v-1.6H2.481Zm29.8,1.6h1.793L25.4,0.778H23.6L14.9,23.184h1.793l2.177-5.7H30.1Zm-12.771-7.3L24.5,2.859l4.993,13.028H19.505ZM52.053,0.778V20.048L38.8,0.778H37.329V23.184h1.7V3.915l13.22,19.269h1.5V0.778h-1.7Zm15.679,0H59.314V23.184h8.418c6.178,0,10.563-5.025,10.563-11.2S73.91,0.778,67.732.778Zm0,20.806H61.011V2.379h6.722c5.281,0,8.9,4.289,8.9,9.6S73.014,21.584,67.732,21.584Z"/>
+  <path id="_name" data-name="          name" class="cls-2" d="M93.843,12.944L85.2,0.784h-3.84v22.4h5.12V11.024l8.64,12.16h3.84V0.784h-5.12v12.16Zm28.8,10.24-7.617-22.4H108.5l-7.616,22.4h5.6l1.12-3.52h8.32l1.12,3.52h5.6ZM111.763,6.64l2.624,8.224h-5.248Zm30.081-5.856-6.08,9.952-6.08-9.952h-5.121v22.4h5.121V10.16l5.792,9.5h0.576l5.792-9.5V23.184h5.12V0.784h-5.12Zm14.08,13.5h8V9.424h-8V5.712h8.8V0.784H150.8v22.4h14.08V18.256h-8.96V14.288Z"/>
+</svg>
